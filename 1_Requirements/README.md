@@ -2,7 +2,7 @@
   
 # Introduction
     
-    The covid vaccination booking system is mainly used to find the available of the vaccine in the particular area,If the vaccine is avaible for someone,then continue to the registration process.to register the vaccine by using aadar number.it is used to registered in easy way to identify the correct person who vaccinate or not.to track the availablity of the vaccine,if all the personal details are correct then process of booking the covid vaccine is done.
+    - The covid vaccination booking system is mainly used to find the available of the vaccine in the particular area,If the vaccine is avaible for someone,then continue to the registration process.to register the vaccine by using aadar number.it is used to registered in easy way to identify the correct person who vaccinate or not.to track the availablity of the vaccine,if all the personal details are correct then process of booking the covid vaccine is done.
     
 # Advantage:
    
@@ -58,3 +58,23 @@
  ## HOW
    
    - By registering yourself in online application.
+
+# High Level Requirements
+
+  |  ID |  DESCRIPTION |  STATUS |
+  | :---         |     :---:      |          ---: |
+  | HR01   | Availability of vaccines     | Implemented next    |
+  | HR02   | Checking the level of dose       | Implemented next      |
+  | HR03  | Duration of get vaccination     | Implemented next   |
+  | HR04  | Identify the type of dose       | Implemented next      |
+  | HR05   | Identifing the credentials     | Implemented next    |
+ 
+
+# Low Level Requirements
+
+  |  ID |  DESCRIPTION |  STATUS |
+  | :---         |     :---:      |          ---: |
+  | LR01   | Checking the availability of vaccine      | Implemented next    |
+  | LR02   | suggesting the health care       | Implemented next     |
+  | LR03  | Tracking the information     | Implemented next    |
+  
