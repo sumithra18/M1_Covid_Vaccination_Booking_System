@@ -54,23 +54,23 @@
  
  ### WHO
   
-   ##### People who want to get vaccine.
+   ##### • People who want to get vaccine.
      
 ### WHAT
   
-   ##### Booking covid vaccinations.
+   ##### • Booking covid vaccinations.
      
 ### WHERE
  
-   ##### To where you want to get vaccinate in nearby.
+   ##### •To where you want to get vaccinate in nearby.
      
 ### WHEN
   
-   ##### Specified duration present when you registered vaccine.
+   ##### • Specified duration present when you registered vaccine.
     
 ### HOW
    
-   ##### By registering yourself in online application.
+   ##### • By registering yourself in online application.
 
 ## High Level Requirements:
 
