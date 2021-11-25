@@ -1,7 +1,7 @@
 #include "unity.h"
 #include "regist.h"
 
-#define PROJECT_NAME    "Vaccine_Registration"
+#define PROJECT_NAME    "Vaccine"
 
 // Prototypes 
 void test_regist_status(void);
