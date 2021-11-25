@@ -1,5 +1,5 @@
-PROJ_NAME = Vaccine_Registration
-SRC = Project_main.c\
+PROJ_NAME = "Vaccine"
+SRC = main.c\
 src/existreg.c\
 src/regist.c
 TEST_SRC = src/regist.c\
