@@ -14,4 +14,5 @@ The process of booking the vaccine is easy to registered,and track the details t
 | 2_Design  | Documents specifying design  |
 | 3_Implementation	  | All codes and Documentation  |
 | 4_TestPlan  | Documents with test plans  |
-| 5_Report	  | Documentation of whole project |
+| 5_Images and videos|All the images of this project|
+| 6_Report	  | Documentation of whole project |
