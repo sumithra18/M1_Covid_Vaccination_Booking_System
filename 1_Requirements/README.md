@@ -1,6 +1,5 @@
-#   COVID VACCINATION BOOKING SYSTEM
 
-## Requirements
+# Requirements
   
 ## Introduction
 
