@@ -17,18 +17,6 @@
    #####  • Identify the information is easy.
    #####  • Excellent registration process.
    
-## Advantage:
-   
-   #####  • To check the availability of vaccine.
-   #####  • To book the vaccine easily.
-   #####  • Track the details easily.
-   #####  •  Ttrack the level of dose and date.
- 
-## Disadvantage:
-  
-   #####  • To indentifing the person who is already registered or not.
-   #####  • SMS or Call verification is not available.
-
 ## SWOT ANALYSIS:
 
  ### STRENGTH
